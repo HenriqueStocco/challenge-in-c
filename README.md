@@ -13,12 +13,12 @@ O programa deve conter:
 
 ### Required functions
 
-1. [ ] Solicitar ao usuário o número de itens que ele deseja inserir.
-2. [ ] Armazenar os ids, nomes e preços e quantidade dos itens em arrays.
-3. [ ] Não permitir que lance um item com o mesmo código já inserido.
-4. [ ] Imprimir uma lista dos itens com seus respectivos preços.
-5. [ ] Calcular e imprimir o total dos preços de todos os itens.
+1. [x] Solicitar ao usuário o número de itens que ele deseja inserir.
+2. [x] Armazenar os ids, nomes e preços e quantidade dos itens em arrays.
+3. [x] Não permitir que lance um item com o mesmo código já inserido.
+4. [x] Imprimir uma lista dos itens com seus respectivos preços.
+5. [x] Calcular e imprimir o total dos preços de todos os itens.
 
 ---------------------------------------------------------------------------
 
-> By Henrique Stocco Machado
+> By Henrique Stocco Machado RA: 8179399
